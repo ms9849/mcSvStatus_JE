@@ -5,7 +5,7 @@ minecraft-server-util 쓰세요
 
 # Server List Ping - wiki.vg
 
-# https://wiki.vg/Server_List_Ping
+### https://wiki.vg/Server_List_Ping
 
 패킷의 내부 구조와 예제를 전부 설명해주고 있습니다. 
 
